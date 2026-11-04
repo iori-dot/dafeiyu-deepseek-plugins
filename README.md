@@ -48,3 +48,8 @@ OBS：「来源」→「+」→「浏览器」→ URL 填 `http://localhost:5000
 ## License
 
 MIT。仅供学习交流；与 DeepSeek / 大肥鱼官方无隶属关系。
+
+## DSH Desktop 新手系列配套
+
+提示词与步骤：见 [dsh-beginner.md](./dsh-beginner.md) 与目录 `dsh-ep1` … `dsh-ep5`。
+
