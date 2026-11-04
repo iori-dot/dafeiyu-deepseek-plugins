@@ -1,17 +1,15 @@
-# DSH Desktop 新手系列（配套）
+# DSH Desktop 新手系列（社区客户端 · 非官方）
 
-五集短视频教程的提示词 / 步骤合集。视频 HQ 在私有发布；这里只放可复制文稿。
+| 集 | 目录 | 主题 |
+|---|---|---|
+| 1 | [`dsh-ep1/`](./dsh-ep1/) | 安装 |
+| 2 | [`dsh-ep2/`](./dsh-ep2/) | API 配置 |
+| 3 | [`dsh-ep3/`](./dsh-ep3/) | 第一次会话 |
+| 4 | [`dsh-ep4/`](./dsh-ep4/) | 提示词与任务 |
+| 5 | [`dsh-ep5/`](./dsh-ep5/) | 插件与安全 |
+| 6 | [`dsh-ep6/`](./dsh-ep6/) | 接常见软件（社区 `@xmanrui/dsh-im`） |
+| 7 | [`dsh-ep7/`](./dsh-ep7/) | 常用功能收官 |
 
-> **DSH Desktop** = 粉丝/社区 Electron 客户端（Anywhere Labs）· **非官方**。
-> 与深度求索无隶属、合作、授权或背书关系。
-> 文档：https://dsh-desktop.com/en/docs/install · https://github.com/anywhere-labs/dsh-desktop
+成片 HQ 在私有 `iori-dot/zhexianji-hq` release `v1`。本仓库只放步骤合集、封面、标题。
 
-| 集 | 主题 | 目录 |
-| --- | --- | --- |
-| EP1 | 安装 | [dsh-ep1](./dsh-ep1) |
-| EP2 | API 配置 | [dsh-ep2](./dsh-ep2) |
-| EP3 | 第一次会话 | [dsh-ep3](./dsh-ep3) |
-| EP4 | 提示词与完成任务 | [dsh-ep4](./dsh-ep4) |
-| EP5 | 插件与安全 | [dsh-ep5](./dsh-ep5) |
-
-相关插件代码：`dfy-study/` · `dfy-live/` · 根目录《提示词与代码合集.md》。
+**EP6 提醒**：`@xmanrui/dsh-im` 是社区插件，不是深度求索官方功能。先装 `dsh-market`，再 `dsh plugin --profile desktop add -w @xmanrui/dsh-im`，重启后 Settings → IM机器人。Desktop 自带飞书 `cc-connect` 是另一条官方桌面路径，与本集分开。

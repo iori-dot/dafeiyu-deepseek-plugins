@@ -1,0 +1,3 @@
+DSH 接 QQ / 飞书：社区插件 dsh-im 安全上手
+Settings → IM机器人｜QQ 扫码或 AppID，群聊要 @
+先装 dsh-market，再装 @xmanrui/dsh-im｜非官方插件必看
