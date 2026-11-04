@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "大肥鱼学习助手",
+  "version": "1.0",
+  "description": "选中网页文字，右键「大肥鱼讲解」——调用 DeepSeek deepseek-flash 讲解并生成闪卡",
+  "permissions": ["contextMenus", "storage"],
+  "host_permissions": ["https://api.deepseek.com/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_popup": "popup.html" }
+}
