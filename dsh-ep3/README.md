@@ -1,0 +1,29 @@
+# DSH 新手系列 · 第3集《第一次会话》提示词与步骤合集
+
+> **官方 DeepSeek Harness Desktop** · 安装只走 https://www.deepseek.com/download/ （CDN `download.deepseek.com`）。Windows: `dsh-latest-windows-x64.exe`；macOS Apple silicon: `dsh-latest-macos-arm64.dmg`（macOS 13+）。Linux **暂无**官方桌面包，用 `npx @deepseek-ai/dsh web`。
+
+## 建议标题（3 选）
+1. DSH 第一次会话：选工作区，看 Agent 干活
+2. 别把整盘当工作区｜审命令 + 最小权限
+3. 新手第3集：Safe 模式与拟议命令卡片
+
+## 本集口播稿
+1. 看！选好文件夹，Agent 就按步骤读文件、改代码、出结果啦～
+2. 新建会话前，先选一个工作区。别选整盘根目录，也别挂密钥、密码本那种敏感文件夹。
+3. 发个小任务试试：帮我阅读这个文件夹的 README，用中文写三句话介绍项目。
+4. 时间线里能看到它读文件、列计划、再动手。每一步都能展开；觉得不对就暂停。
+5. 它要跑终端命令时，会弹出拟议命令卡片——先审再执行，别一键全同意。权限给最小就好。
+6. 小心踩坑！会话一直转圈，多半是没选工作区，或者选了太大的盘。回去换一个小项目文件夹，再发一次。
+7. 第一次会话通关！下集教你写提示词，学习任务和小代码一次搞定，拜拜～
+
+## 下集
+下集：提示词模板 · 学习任务 + 小代码
+
+## 来源核对
+- https://www.deepseek.com/download/
+- https://www.deepseek.com/harness/ （Creator Mode、Scheduled tasks、一切皆插件）
+- https://github.com/deepseek-ai/deepseek-harness
+- https://api-docs.deepseek.com/ （`deepseek-flash` = DeepSeek-V4.1-Flash-1017）
+
+## 说明
+本页配套**官方**桌面端新手竖屏教程；勿与社区 Tauri / 粉丝客户端（dsh-tauri、dsh-desktop.com、anywhere-labs）混淆。
