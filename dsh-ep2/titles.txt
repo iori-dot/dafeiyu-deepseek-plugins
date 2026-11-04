@@ -1,3 +1,0 @@
-DSH 配 API 一次成功｜选 deepseek-flash 发测试消息
-新手必看：Base URL 别多写 /chat/completions
-DSH Desktop 第2集：官方 Key / 第三方 / 自定义 API
